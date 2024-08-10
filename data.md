@@ -18,9 +18,9 @@ The dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/tristanzha
 
 
 
-## Usage Instructions
+## Download the Data
 
-1. **Download the Data**:  [Kaggle Dataset Link](link-to-your-file-in-repo)
+[Kaggle Dataset Link](link-to-your-file-in-repo)
                                       
                                       
    
