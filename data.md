@@ -20,7 +20,7 @@ The dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/tristanzha
 
 ## Download the Data
 
-[Kaggle Dataset Link](link-to-your-file-in-repo)
+[Dataset Link](link-to-your-file-in-repo)
                                       
                                       
    
